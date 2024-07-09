@@ -66,8 +66,7 @@ The Kanbas React Web App is a feature-rich, interactive application designed to 
     Open your browser and navigate to `http://localhost:3000`
 
 ### Configuration
-
-- **Backend**: Configure MongoDB connection in `kanbas-node-server-app/config/db.js`.
+ **Backend**: Create a .env file and input `https://localhost:4000` to setup the backend connection 
 - **Environment Variables**: Set up environment variables for secret keys and database URIs.
 
 ## Usage
