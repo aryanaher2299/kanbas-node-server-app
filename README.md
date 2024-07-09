@@ -1,6 +1,6 @@
 
-# Kanbas React Web App
-
+# Kanbas React Web App (Server-Side)
+See `https://github.com/aryanaher2299/kanbas-react-web-app` for the front end
 ## Overview
 
 The Kanbas React Web App is a feature-rich, interactive application designed to manage tasks and projects using the Kanban methodology. It leverages modern web technologies including React.js, Redux, React Router, and integrates with a Node.js and MongoDB backend for data persistence.
